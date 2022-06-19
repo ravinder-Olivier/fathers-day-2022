@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ravinder-Olivier/fathers-day-2022/issues"
   },
-  "homepage": "https://github.com/ravinder-Olivier/fathers-day-2022#readme"
+  "homepage": "https://github.com/ravinder-Olivier/fathers-day-2022#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
