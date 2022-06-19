@@ -1,0 +1,23 @@
+{
+  "name": "fathers-day-2022",
+  "version": "1.0.0",
+  "description": "Father's day 2022 Node.js Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravinder-Olivier/fathers-day-2022.git"
+  },
+  "keywords": [
+    "fathers",
+    "day"
+  ],
+  "author": "Ravinder Olivier Singh Dadiala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravinder-Olivier/fathers-day-2022/issues"
+  },
+  "homepage": "https://github.com/ravinder-Olivier/fathers-day-2022#readme"
+}
