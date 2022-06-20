@@ -11,6 +11,6 @@ jobs:
 
     - name: Build the Father's Day Docker image
       run: |
-        echo $CR_PAT | docker login ghcr.io -u YourAccountOrGHOrgaNameHere --password-stdin
+        echo $CR_PAT | docker login ghcr.io -u ravinder-Olivier --password-stdin
       env:
         CR_PAT: ${{ secrets.CR_PAT }}
